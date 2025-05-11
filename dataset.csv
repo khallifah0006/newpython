@@ -1,0 +1,121 @@
+Umur,BMI_status,tinggi_badan,berat_badan,Workout1,Workout2,Workout3,Workout4,Workout5,banyak_workout
+18,underweight,175,56,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+19,underweight,168,51,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+21,underweight,182,60,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+23,underweight,170,53,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+25,underweight,178,58,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+27,underweight,165,49,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+29,underweight,180,59,assisted push up,assisted pull up,jogging,berenang,bersepeda,5
+31,underweight,173,55,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+33,underweight,166,50,assisted push up,assisted pull up,bersepeda,jogging,berenang,5
+35,underweight,177,58,assisted push up,assisted pull up,jogging,bersepeda,berenang,5
+18,normal,170,65,push up,pull up,squat,jogging,berenang,5
+19,normal,175,68,push up,pull up,jump squat,jogging,bersepeda,5
+21,normal,183,74,pull up,push up,dips,jogging,berenang,5
+23,normal,178,70,push up,pull up,squat,bersepeda,jogging,5
+25,normal,173,67,push up,pull up,jump squat,jogging,berenang,5
+27,normal,180,72,pull up,dips,squat,bersepeda,jogging,5
+29,normal,172,66,push up,pull up,squat,jogging,berenang,5
+31,normal,177,69,push up,pull up,jump squat,bersepeda,jogging,5
+33,normal,183,75,pull up,push up,dips,jogging,berenang,5
+35,normal,175,68,push up,pull up,squat,bersepeda,jogging,5
+18,overweight,165,70,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+19,overweight,170,73,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+21,overweight,178,78,push up,assisted pull up,squat,bersepeda santai,jogging santai,5
+23,overweight,175,75,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+25,overweight,172,74,push up,assisted pull up,squat,bersepeda santai,jogging santai,5
+27,overweight,180,80,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+29,overweight,168,72,push up,assisted pull up,squat,bersepeda santai,jogging santai,5
+31,overweight,176,76,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+33,overweight,183,82,push up,assisted pull up,squat,bersepeda santai,jogging santai,5
+35,overweight,174,75,push up,assisted pull up,squat,jogging santai,bersepeda santai,5
+18,obesitas,160,78,assisted push up,squat,jogging,bersepeda,berenang,5
+19,obesitas,165,82,assisted push up,squat,jogging,bersepeda,berenang,5
+21,obesitas,172,88,assisted push up,squat,berenang,jogging,bersepeda,5
+23,obesitas,168,85,assisted push up,squat,jogging,bersepeda,berenang,5
+25,obesitas,175,92,assisted push up,squat,berenang,jogging,bersepeda,5
+27,obesitas,170,87,assisted push up,squat,jogging,bersepeda,berenang,5
+29,obesitas,178,95,assisted push up,squat,berenang,jogging,bersepeda,5
+31,obesitas,166,84,assisted push up,squat,jogging,bersepeda,berenang,5
+33,obesitas,173,90,assisted push up,squat,berenang,jogging,bersepeda,5
+35,obesitas,169,86,assisted push up,squat,jogging,bersepeda,berenang,5
+36,underweight,172,54,assisted push up,assisted pull up,jogging,bersepeda,NaN,4
+38,underweight,177,57,assisted push up,assisted pull up,bersepeda,jogging,NaN,4
+42,underweight,168,51,assisted push up,assisted pull up,jogging,berenang,NaN,4
+45,underweight,175,56,assisted push up,assisted pull up,bersepeda,jogging,NaN,4
+48,underweight,170,52,assisted push up,assisted pull up,jogging,berenang,NaN,4
+52,underweight,182,60,assisted push up,assisted pull up,bersepeda,jogging,NaN,4
+55,underweight,166,50,assisted push up,assisted pull up,jogging,berenang,NaN,4
+57,underweight,173,55,assisted push up,assisted pull up,bersepeda,jogging,NaN,4
+59,underweight,180,59,assisted push up,assisted pull up,jogging,berenang,NaN,4
+60,underweight,169,52,assisted push up,assisted pull up,bersepeda,jogging,NaN,4
+36,normal,175,68,push up,pull up,squat,jogging,NaN,4
+38,normal,183,75,pull up,push up,jump squat,berenang,NaN,4
+42,normal,170,65,push up,pull up,dips,jogging,NaN,4
+45,normal,178,70,pull up,push up,squat,bersepeda,NaN,4
+48,normal,173,67,push up,pull up,jump squat,jogging,NaN,4
+52,normal,180,72,pull up,push up,dips,berenang,NaN,4
+55,normal,172,66,push up,pull up,squat,jogging,NaN,4
+57,normal,177,69,pull up,push up,jump squat,bersepeda,NaN,4
+59,normal,183,75,push up,pull up,dips,jogging,NaN,4
+60,normal,175,68,pull up,push up,squat,berenang,NaN,4
+36,overweight,168,72,push up,assisted pull up,squat,jogging santai,NaN,4
+38,overweight,176,76,push up,assisted pull up,squat,bersepeda santai,NaN,4
+42,overweight,170,73,push up,assisted pull up,squat,jogging santai,NaN,4
+45,overweight,178,78,push up,assisted pull up,squat,bersepeda santai,NaN,4
+48,overweight,172,74,push up,assisted pull up,squat,jogging santai,NaN,4
+52,overweight,180,80,push up,assisted pull up,squat,bersepeda santai,NaN,4
+55,overweight,165,70,push up,assisted pull up,squat,jogging santai,NaN,4
+57,overweight,175,75,push up,assisted pull up,squat,bersepeda santai,NaN,4
+59,overweight,183,82,push up,assisted pull up,squat,jogging santai,NaN,4
+60,overweight,174,75,push up,assisted pull up,squat,bersepeda santai,NaN,4
+36,obesitas,165,82,assisted push up,squat,jogging,bersepeda,NaN,4
+38,obesitas,172,88,assisted push up,squat,berenang,jogging,NaN,4
+42,obesitas,160,78,assisted push up,squat,bersepeda,berenang,NaN,4
+45,obesitas,175,92,assisted push up,squat,jogging,bersepeda,NaN,4
+48,obesitas,168,85,assisted push up,squat,berenang,jogging,NaN,4
+52,obesitas,178,95,assisted push up,squat,bersepeda,berenang,NaN,4
+55,obesitas,166,84,assisted push up,squat,jogging,bersepeda,NaN,4
+57,obesitas,173,90,assisted push up,squat,berenang,jogging,NaN,4
+59,obesitas,169,86,assisted push up,squat,bersepeda,berenang,NaN,4
+60,obesitas,177,94,assisted push up,squat,jogging,bersepeda,NaN,4
+61,underweight,170,52,assisted push up,assisted pull up,berenang,NaN,NaN,3
+63,underweight,175,56,assisted push up,assisted pull up,jogging,NaN,NaN,3
+65,underweight,168,51,assisted push up,assisted pull up,bersepeda,NaN,NaN,3
+67,underweight,172,54,assisted push up,assisted pull up,berenang,NaN,NaN,3
+70,underweight,177,57,assisted push up,assisted pull up,jogging,NaN,NaN,3
+72,underweight,166,50,assisted push up,assisted pull up,bersepeda,NaN,NaN,3
+75,underweight,173,55,assisted push up,assisted pull up,berenang,NaN,NaN,3
+78,underweight,169,52,assisted push up,assisted pull up,jogging,NaN,NaN,3
+82,underweight,180,59,assisted push up,assisted pull up,bersepeda,NaN,NaN,3
+85,underweight,165,49,assisted push up,assisted pull up,berenang,NaN,NaN,3
+61,normal,175,68,push up,pull up,jogging,NaN,NaN,3
+63,normal,170,65,push up,pull up,berenang,NaN,NaN,3
+65,normal,183,75,push up,pull up,bersepeda,NaN,NaN,3
+67,normal,172,66,push up,pull up,jogging,NaN,NaN,3
+70,normal,178,70,push up,pull up,berenang,NaN,NaN,3
+72,normal,173,67,push up,pull up,bersepeda,NaN,NaN,3
+75,normal,180,72,push up,pull up,jogging,NaN,NaN,3
+78,normal,174,68,push up,pull up,berenang,NaN,NaN,3
+82,normal,177,69,push up,pull up,bersepeda,NaN,NaN,3
+85,normal,171,65,push up,pull up,jogging,NaN,NaN,3
+61,overweight,170,73,push up,assisted pull up,jogging santai,NaN,NaN,3
+63,overweight,176,76,push up,assisted pull up,bersepeda santai,NaN,NaN,3
+65,overweight,168,72,push up,assisted pull up,jogging santai,NaN,NaN,3
+67,overweight,175,75,push up,assisted pull up,bersepeda santai,NaN,NaN,3
+70,overweight,183,82,push up,assisted pull up,jogging santai,NaN,NaN,3
+72,overweight,172,74,push up,assisted pull up,bersepeda santai,NaN,NaN,3
+75,overweight,180,80,push up,assisted pull up,jogging santai,NaN,NaN,3
+78,overweight,165,70,push up,assisted pull up,bersepeda santai,NaN,NaN,3
+82,overweight,178,78,push up,assisted pull up,jogging santai,NaN,NaN,3
+85,overweight,174,75,push up,assisted pull up,bersepeda santai,NaN,NaN,3
+61,obesitas,168,85,assisted push up,squat,jogging,NaN,NaN,3
+63,obesitas,175,92,assisted push up,squat,bersepeda,NaN,NaN,3
+65,obesitas,166,84,assisted push up,squat,berenang,NaN,NaN,3
+67,obesitas,172,88,assisted push up,squat,jogging,NaN,NaN,3
+70,obesitas,169,86,assisted push up,squat,bersepeda,NaN,NaN,3
+72,obesitas,177,94,assisted push up,squat,berenang,NaN,NaN,3
+75,obesitas,165,82,assisted push up,squat,jogging,NaN,NaN,3
+78,obesitas,173,90,assisted push up,squat,bersepeda,NaN,NaN,3
+82,obesitas,160,78,assisted push up,squat,berenang,NaN,NaN,3
+85,obesitas,178,95,assisted push up,squat,jogging,NaN,NaN,3
