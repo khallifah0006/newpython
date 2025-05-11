@@ -398,17 +398,98 @@ class WorkoutRecommendationSystem:
 # Initialize the system
 system = WorkoutRecommendationSystem()
 
-# Routes
+
+# Add a simple index route for the root path
 @app.route('/', methods=['GET'])
-def home():
-    return jsonify({
-        'message': 'Welcome to Workout Recommendation API',
-        'endpoints': {
-            'health_check': '/api/health',
-            'train_model': '/api/train',
-            'recommend_workouts': '/api/recommend'
+def index():
+    return """
+   <html>
+<head>
+    <title>Workout Recommendation API</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
         }
-    })
+        h1 {
+            color: #333;
+        }
+        code {
+            background-color: #f0f0f0;
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        pre {
+            background-color: #f0f0f0;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        .endpoint {
+            margin-bottom: 20px;
+        }
+        .endpoint h2 {
+            margin-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Workout Recommendation API</h1>
+    <p>Welcome to the Workout Recommendation API. Use the following endpoints:</p>
+    
+    <div class="endpoint">
+        <h2>Health Check</h2>
+        <code>GET /api/health</code>
+        <p>Returns the status of the API</p>
+    </div>
+    
+    <div class="endpoint">
+        <h2>Workout Recommendation</h2>
+        <code>POST /api/recommend</code>
+        <p>Get personalized workout recommendations based on BMI, height, weight, and age</p>
+        <h3>Request Body:</h3>
+        <pre>
+{
+  "age": 30,
+  "height": 175,
+  "weight": 70
+}
+        </pre>
+        <h3>Response:</h3>
+        <pre>
+{
+  "data": {
+    "age": 30,
+    "age_category": "Muda",
+    "bmi": 22.86,
+    "bmi_category": "normal",
+    "height": 175,
+    "recommended_workouts": [
+      {
+        "confidence": 0.95,
+        "name": "pull up"
+      },
+      {
+        "confidence": 0.88,
+        "name": "push up"
+      },
+      {
+        "confidence": 0.67,
+        "name": "jogging"
+      }
+    ],
+    "weight": 70
+  },
+  "success": true
+}
+        </pre>
+    </div>
+</body>
+</html>
+    """
+
 
 @app.route('/api/train', methods=['POST'])
 def train_model():
