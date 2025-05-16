@@ -626,156 +626,87 @@ Umur,BMI_status,tinggi_badan,berat_badan,Workout1,Workout2,Workout3,Workout4,Wor
 98,normal,178,70,push up,pull up,squat,NaN,NaN,3
 99,normal,175,68,push up,pull up,jogging,NaN,NaN,3
 100,normal,172,66,push up,pull up,squat,NaN,NaN,3
-101,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
-102,normal,178,70,push up,pull up,squat,jogging,berenang,5
-103,normal,172,66,pull up,push up,dips,bersepeda,jogging,5
-104,normal,176,69,push up,pull up,jump squat,jogging,berenang,5
-105,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
-106,normal,175,68,push up,pull up,dips,jogging,berenang,5
-107,normal,173,67,pull up,push up,squat,bersepeda,jogging,5
-108,normal,177,69,push up,pull up,jump squat,jogging,berenang,5
-109,normal,182,74,pull up,push up,dips,bersepeda,jogging,5
-110,normal,175,68,push up,pull up,squat,jogging,berenang,5
-111,normal,170,65,pull up,push up,jump squat,bersepeda,jogging,5
-112,normal,176,69,push up,pull up,dips,jogging,berenang,5
-113,normal,179,71,pull up,push up,squat,bersepeda,jogging,5
-114,normal,173,67,push up,pull up,jump squat,jogging,berenang,5
 115,normal,177,69,pull up,push up,dips,bersepeda,jogging,5
-116,normal,175,68,push up,pull up,squat,jogging,berenang,5
-117,normal,180,72,pull up,push up,jump squat,bersepeda,jogging,5
-118,normal,173,67,push up,pull up,dips,jogging,berenang,5
-119,normal,176,69,pull up,push up,squat,bersepeda,jogging,5
-120,normal,175,68,push up,pull up,jump squat,jogging,berenang,5
-121,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
-122,normal,178,70,push up,pull up,squat,jogging,berenang,5
-123,normal,172,66,pull up,push up,bersepeda,jogging,berenang,5
-124,normal,176,69,push up,pull up,jogging,berenang,bersepeda,5
-125,normal,180,72,pull up,push up,squat,jogging,berenang,5
-126,normal,175,68,push up,pull up,bersepeda,jogging,berenang,5
-127,normal,173,67,pull up,push up,jogging,berenang,bersepeda,5
-128,normal,177,69,push up,pull up,squat,jogging,berenang,5
-129,normal,182,74,pull up,push up,bersepeda,jogging,berenang,5
-130,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
-131,normal,170,65,pull up,push up,squat,jogging,berenang,5
-132,normal,176,69,push up,pull up,bersepeda,jogging,berenang,5
-133,normal,179,71,pull up,push up,jogging,berenang,bersepeda,5
-134,normal,173,67,push up,pull up,squat,jogging,berenang,5
-135,normal,177,69,pull up,push up,bersepeda,jogging,berenang,5
-136,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
-137,normal,180,72,pull up,push up,squat,jogging,berenang,5
-138,normal,173,67,push up,pull up,bersepeda,jogging,berenang,5
-139,normal,176,69,pull up,push up,jogging,berenang,bersepeda,5
-140,normal,175,68,push up,pull up,squat,jogging,berenang,5
-141,normal,178,70,push up,pull up,squat,jogging,NaN,4
-142,normal,175,68,pull up,push up,jump squat,bersepeda,NaN,4
-143,normal,172,66,push up,pull up,dips,jogging,NaN,4
-144,normal,176,69,pull up,push up,squat,berenang,NaN,4
-145,normal,180,72,push up,pull up,jump squat,jogging,NaN,4
-146,normal,175,68,pull up,push up,dips,bersepeda,NaN,4
-147,normal,173,67,push up,pull up,squat,jogging,NaN,4
-148,normal,177,69,pull up,push up,jump squat,berenang,NaN,4
-149,normal,182,74,push up,pull up,dips,jogging,NaN,4
-150,normal,175,68,pull up,push up,squat,bersepeda,NaN,4
-151,normal,170,65,push up,pull up,jump squat,jogging,NaN,4
-152,normal,176,69,pull up,push up,dips,berenang,NaN,4
-153,normal,179,71,push up,pull up,squat,jogging,NaN,4
-154,normal,173,67,pull up,push up,jump squat,bersepeda,NaN,4
-155,normal,177,69,push up,pull up,dips,jogging,NaN,4
-156,normal,175,68,pull up,push up,squat,berenang,NaN,4
-157,normal,180,72,push up,pull up,jump squat,jogging,NaN,4
-158,normal,173,67,pull up,push up,dips,bersepeda,NaN,4
-159,normal,176,69,push up,pull up,squat,jogging,NaN,4
-160,normal,175,68,pull up,push up,jump squat,berenang,NaN,4
-161,normal,173,67,push up,pull up,jogging,NaN,NaN,3
-162,normal,175,68,push up,pull up,squat,NaN,NaN,3
-163,normal,180,72,push up,pull up,bersepeda,NaN,NaN,3
-164,normal,174,67,push up,pull up,jogging,NaN,NaN,3
-165,normal,178,70,push up,pull up,squat,NaN,NaN,3
-166,normal,176,69,push up,pull up,bersepeda,NaN,NaN,3
-167,normal,173,67,push up,pull up,jogging,NaN,NaN,3
-168,normal,175,68,push up,pull up,squat,NaN,NaN,3
-169,normal,179,71,push up,pull up,bersepeda,NaN,NaN,3
-170,normal,177,69,push up,pull up,jogging,NaN,NaN,3
-171,normal,172,66,push up,pull up,squat,NaN,NaN,3
-172,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
-173,normal,180,72,push up,pull up,jogging,NaN,NaN,3
-174,normal,173,67,push up,pull up,squat,NaN,NaN,3
-175,normal,176,69,push up,pull up,bersepeda,NaN,NaN,3
-176,normal,175,68,push up,pull up,jogging,NaN,NaN,3
-177,normal,178,70,push up,pull up,squat,NaN,NaN,3
-178,normal,174,67,push up,pull up,bersepeda,NaN,NaN,3
-179,normal,175,68,push up,pull up,jogging,NaN,NaN,3
-180,normal,177,69,push up,pull up,squat,NaN,NaN,3
-181,normal,175,68,push up,pull up,dips,jogging,berenang,5
-182,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
-183,normal,173,67,push up,pull up,jump squat,jogging,berenang,5
-184,normal,178,70,pull up,push up,dips,bersepeda,jogging,5
-185,normal,175,68,push up,pull up,squat,jogging,berenang,5
-186,normal,172,66,pull up,push up,jump squat,bersepeda,jogging,5
-187,normal,176,69,push up,pull up,dips,jogging,berenang,5
-188,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
-189,normal,175,68,push up,pull up,jump squat,jogging,berenang,5
-190,normal,179,71,pull up,push up,dips,bersepeda,jogging,5
-191,normal,173,67,push up,pull up,squat,jogging,berenang,5
-192,normal,177,69,pull up,push up,jump squat,bersepeda,jogging,5
-193,normal,175,68,push up,pull up,dips,jogging,berenang,5
-194,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
-195,normal,174,67,push up,pull up,jump squat,jogging,berenang,5
-196,normal,178,70,pull up,push up,dips,bersepeda,jogging,5
-197,normal,175,68,push up,pull up,squat,jogging,berenang,5
-198,normal,173,67,pull up,push up,jump squat,bersepeda,jogging,5
-199,normal,176,69,push up,pull up,dips,jogging,berenang,5
-200,normal,175,68,pull up,push up,squat,bersepeda,jogging,5
-201,normal,175,68,push up,pull up,squat,jogging,NaN,4
-202,normal,180,72,pull up,push up,dips,bersepeda,NaN,4
-203,normal,173,67,push up,pull up,jump squat,jogging,NaN,4
-204,normal,178,70,pull up,push up,squat,berenang,NaN,4
-205,normal,175,68,push up,pull up,dips,jogging,NaN,4
-206,normal,172,66,pull up,push up,jump squat,bersepeda,NaN,4
-207,normal,176,69,push up,pull up,squat,jogging,NaN,4
-208,normal,180,72,pull up,push up,dips,berenang,NaN,4
-209,normal,175,68,push up,pull up,jump squat,jogging,NaN,4
-210,normal,179,71,pull up,push up,squat,bersepeda,NaN,4
-211,normal,173,67,push up,pull up,dips,jogging,NaN,4
-212,normal,177,69,pull up,push up,jump squat,berenang,NaN,4
-213,normal,175,68,push up,pull up,squat,jogging,NaN,4
-214,normal,180,72,pull up,push up,dips,bersepeda,NaN,4
-215,normal,174,67,push up,pull up,jump squat,jogging,NaN,4
-216,normal,178,70,pull up,push up,squat,berenang,NaN,4
-217,normal,175,68,push up,pull up,dips,jogging,NaN,4
-218,normal,173,67,pull up,push up,jump squat,bersepeda,NaN,4
-219,normal,176,69,push up,pull up,squat,jogging,NaN,4
-220,normal,175,68,pull up,push up,dips,berenang,NaN,4
-221,normal,176,69,push up,pull up,jogging,NaN,NaN,3
-222,normal,175,68,push up,pull up,squat,NaN,NaN,3
-223,normal,178,70,push up,pull up,bersepeda,NaN,NaN,3
-224,normal,173,67,push up,pull up,jogging,NaN,NaN,3
-225,normal,175,68,push up,pull up,squat,NaN,NaN,3
-226,normal,180,72,push up,pull up,bersepeda,NaN,NaN,3
-227,normal,174,67,push up,pull up,jogging,NaN,NaN,3
-228,normal,177,69,push up,pull up,squat,NaN,NaN,3
-229,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
-230,normal,179,71,push up,pull up,jogging,NaN,NaN,3
-231,normal,175,68,push up,pull up,squat,NaN,NaN,3
-232,normal,172,66,push up,pull up,bersepeda,NaN,NaN,3
-233,normal,176,69,push up,pull up,jogging,NaN,NaN,3
-234,normal,175,68,push up,pull up,squat,NaN,NaN,3
-235,normal,180,72,push up,pull up,bersepeda,NaN,NaN,3
-236,normal,173,67,push up,pull up,jogging,NaN,NaN,3
-237,normal,177,69,push up,pull up,squat,NaN,NaN,3
-238,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
-239,normal,178,70,push up,pull up,jogging,NaN,NaN,3
-240,normal,175,68,push up,pull up,squat,NaN,NaN,3
-241,normal,172,66,push up,pull up,bersepeda,NaN,NaN,3
-242,normal,176,69,push up,pull up,jogging,NaN,NaN,3
-243,normal,180,72,push up,pull up,squat,NaN,NaN,3
-244,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
-245,normal,173,67,push up,pull up,jogging,NaN,NaN,3
-246,normal,178,70,push up,pull up,squat,NaN,NaN,3
-247,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
-248,normal,177,69,push up,pull up,jogging,NaN,NaN,3
-249,normal,180,72,push up,pull up,squat,NaN,NaN,3
-250,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
+16,normal,175,68,push up,pull up,squat,jogging,berenang,5
+17,normal,180,72,pull up,push up,jump squat,bersepeda,jogging,5
+18,normal,173,67,push up,pull up,dips,jogging,berenang,5
+19,normal,176,69,pull up,push up,squat,bersepeda,jogging,5
+20,normal,175,68,push up,pull up,jump squat,jogging,berenang,5
+21,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
+22,normal,178,70,push up,pull up,squat,jogging,berenang,5
+23,normal,172,66,pull up,push up,bersepeda,jogging,berenang,5
+24,normal,176,69,push up,pull up,jogging,berenang,bersepeda,5
+25,normal,180,72,pull up,push up,squat,jogging,berenang,5
+26,normal,175,68,push up,pull up,bersepeda,jogging,berenang,5
+27,normal,173,67,pull up,push up,jogging,berenang,bersepeda,5
+28,normal,177,69,push up,pull up,squat,jogging,berenang,5
+29,normal,182,74,pull up,push up,bersepeda,jogging,berenang,5
+30,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
+31,normal,170,65,pull up,push up,squat,jogging,berenang,5
+32,normal,176,69,push up,pull up,bersepeda,jogging,berenang,5
+33,normal,179,71,pull up,push up,jogging,berenang,bersepeda,5
+34,normal,173,67,push up,pull up,squat,jogging,berenang,5
+35,normal,177,69,pull up,push up,bersepeda,jogging,berenang,5
+36,normal,175,68,push up,pull up,jogging,berenang,bersepeda,5
+37,normal,180,72,pull up,push up,squat,jogging,berenang,5
+38,normal,173,67,push up,pull up,bersepeda,jogging,berenang,5
+39,normal,176,69,pull up,push up,jogging,berenang,bersepeda,5
+40,normal,175,68,push up,pull up,squat,jogging,berenang,5
+41,normal,178,70,push up,pull up,squat,jogging,NaN,4
+42,normal,175,68,pull up,push up,jump squat,bersepeda,NaN,4
+43,normal,172,66,push up,pull up,dips,jogging,NaN,4
+44,normal,176,69,pull up,push up,squat,berenang,NaN,4
+45,normal,180,72,push up,pull up,jump squat,jogging,NaN,4
+46,normal,175,68,pull up,push up,dips,bersepeda,NaN,4
+47,normal,173,67,push up,pull up,squat,jogging,NaN,4
+48,normal,177,69,pull up,push up,jump squat,berenang,NaN,4
+49,normal,182,74,push up,pull up,dips,jogging,NaN,4
+50,normal,175,68,pull up,push up,squat,bersepeda,NaN,4
+51,normal,170,65,push up,pull up,jump squat,jogging,NaN,4
+52,normal,176,69,pull up,push up,dips,berenang,NaN,4
+53,normal,179,71,push up,pull up,squat,jogging,NaN,4
+54,normal,173,67,pull up,push up,jump squat,bersepeda,NaN,4
+55,normal,177,69,push up,pull up,dips,jogging,NaN,4
+56,normal,175,68,pull up,push up,squat,berenang,NaN,4
+57,normal,180,72,push up,pull up,jump squat,jogging,NaN,4
+58,normal,173,67,pull up,push up,dips,bersepeda,NaN,4
+59,normal,176,69,push up,pull up,squat,jogging,NaN,4
+60,normal,175,68,pull up,push up,jump squat,berenang,NaN,4
+61,normal,173,67,push up,pull up,jogging,NaN,NaN,3
+62,normal,175,68,push up,pull up,squat,NaN,NaN,3
+63,normal,180,72,push up,pull up,bersepeda,NaN,NaN,3
+64,normal,174,67,push up,pull up,jogging,NaN,NaN,3
+65,normal,178,70,push up,pull up,squat,NaN,NaN,3
+66,normal,176,69,push up,pull up,bersepeda,NaN,NaN,3
+67,normal,173,67,push up,pull up,jogging,NaN,NaN,3
+68,normal,175,68,push up,pull up,squat,NaN,NaN,3
+69,normal,179,71,push up,pull up,bersepeda,NaN,NaN,3
+70,normal,177,69,push up,pull up,jogging,NaN,NaN,3
+71,normal,172,66,push up,pull up,squat,NaN,NaN,3
+72,normal,175,68,push up,pull up,bersepeda,NaN,NaN,3
+73,normal,180,72,push up,pull up,jogging,NaN,NaN,3
+74,normal,173,67,push up,pull up,squat,NaN,NaN,3
+75,normal,176,69,push up,pull up,bersepeda,NaN,NaN,3
+76,normal,175,68,push up,pull up,jogging,NaN,NaN,3
+77,normal,178,70,push up,pull up,squat,NaN,NaN,3
+78,normal,174,67,push up,pull up,bersepeda,NaN,NaN,3
+79,normal,175,68,push up,pull up,jogging,NaN,NaN,3
+80,normal,177,69,push up,pull up,squat,NaN,NaN,3
+81,normal,175,68,push up,pull up,dips,jogging,berenang,5
+82,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
+83,normal,173,67,push up,pull up,jump squat,jogging,berenang,5
+84,normal,178,70,pull up,push up,dips,bersepeda,jogging,5
+85,normal,175,68,push up,pull up,squat,jogging,berenang,5
+86,normal,172,66,pull up,push up,jump squat,bersepeda,jogging,5
+87,normal,176,69,push up,pull up,dips,jogging,berenang,5
+88,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
+89,normal,175,68,push up,pull up,jump squat,jogging,berenang,5
+90,normal,179,71,pull up,push up,dips,bersepeda,jogging,5
+91,normal,173,67,push up,pull up,squat,jogging,berenang,5
+92,normal,177,69,pull up,push up,jump squat,bersepeda,jogging,5
+93,normal,175,68,push up,pull up,dips,jogging,berenang,5
+94,normal,180,72,pull up,push up,squat,bersepeda,jogging,5
+95,normal,174,67,push up,pull up,jump squat,jogging,berenang,5
 18,obesitas,160,78,assisted push up,squat,jogging,bersepeda,berenang,5
 19,obesitas,165,82,assisted push up,squat,jogging,bersepeda,berenang,5
 21,obesitas,172,88,assisted push up,squat,berenang,jogging,bersepeda,5
