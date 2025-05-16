@@ -24,7 +24,7 @@ class WorkoutRecommendationSystem:
         self.workout_decoder = None
         self.scaler = None
         
-    def train(self, dataset_path='dataset.csv'):
+    def train(self, dataset_path='dataset1.csv'):
         """Train the workout recommendation model"""
         print("Using TensorFlow version:", tf.__version__)
 
