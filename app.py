@@ -496,7 +496,7 @@ def train_model():
     try:
         # Get dataset path from request (optional)
         request_data = request.get_json(silent=True) or {}
-        dataset_path = request_data.get('dataset_path', 'dataset.csv')
+        dataset_path = request_data.get('dataset_path', 'dataset1.csv')
         
         # Train the model
         metrics = system.train(dataset_path=dataset_path)
